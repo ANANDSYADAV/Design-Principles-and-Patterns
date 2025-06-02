@@ -1,5 +1,6 @@
 // composite pattern
-// The Composite Pattern allows treating individual objects and compositions of objects (tree structures) uniformly. It enables hierarchical structures where a group of objects can be treated as a single object.
+// The Composite Pattern allows treating individual objects and compositions of objects (tree structures) uniformly. 
+// It enables hierarchical structures where a group of objects can be treated as a single object.
 
 // Use Cases (Short):
 // Representing tree structures like file systems, UI components, and organizational hierarchies.
