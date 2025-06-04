@@ -143,7 +143,7 @@ class UserAvatarProxy {
 const inputFileType = new UserAvatarProxy("pic.png");
 inputFileType.submitImg();
 
-// Conposite Pattern
+// Composite Pattern
 class FileSystemEntity {
   display(indent = 0) {}
 }
